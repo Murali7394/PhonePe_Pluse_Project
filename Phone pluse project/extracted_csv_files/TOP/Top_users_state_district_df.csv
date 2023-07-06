@@ -1,0 +1,721 @@
+,State,Year,Quater,District_name,User_count
+0,andaman-&-nicobar-islands,2018,1,south andaman,5846
+1,andaman-&-nicobar-islands,2018,2,south andaman,8143
+2,andaman-&-nicobar-islands,2018,3,south andaman,10474
+3,andaman-&-nicobar-islands,2018,4,south andaman,13133
+4,andaman-&-nicobar-islands,2019,1,south andaman,15961
+5,andaman-&-nicobar-islands,2019,2,south andaman,18621
+6,andaman-&-nicobar-islands,2019,3,south andaman,20518
+7,andaman-&-nicobar-islands,2019,4,south andaman,22202
+8,andaman-&-nicobar-islands,2020,1,south andaman,24174
+9,andaman-&-nicobar-islands,2020,2,south andaman,27626
+10,andaman-&-nicobar-islands,2020,3,south andaman,34833
+11,andaman-&-nicobar-islands,2020,4,south andaman,43908
+12,andaman-&-nicobar-islands,2021,1,south andaman,48352
+13,andaman-&-nicobar-islands,2021,2,south andaman,51903
+14,andaman-&-nicobar-islands,2021,3,south andaman,55873
+15,andaman-&-nicobar-islands,2021,4,south andaman,59807
+16,andaman-&-nicobar-islands,2022,1,south andaman,63487
+17,andaman-&-nicobar-islands,2022,2,south andaman,66959
+18,andaman-&-nicobar-islands,2022,3,south andaman,70445
+19,andaman-&-nicobar-islands,2022,4,south andaman,73692
+20,andhra-pradesh,2018,1,visakhapatnam,497187
+21,andhra-pradesh,2018,2,visakhapatnam,636052
+22,andhra-pradesh,2018,3,visakhapatnam,769096
+23,andhra-pradesh,2018,4,visakhapatnam,978288
+24,andhra-pradesh,2019,1,visakhapatnam,1174517
+25,andhra-pradesh,2019,2,visakhapatnam,1318740
+26,andhra-pradesh,2019,3,visakhapatnam,1460464
+27,andhra-pradesh,2019,4,visakhapatnam,1620235
+28,andhra-pradesh,2020,1,visakhapatnam,1763581
+29,andhra-pradesh,2020,2,visakhapatnam,1904719
+30,andhra-pradesh,2020,3,visakhapatnam,2058346
+31,andhra-pradesh,2020,4,visakhapatnam,2209658
+32,andhra-pradesh,2021,1,visakhapatnam,2368081
+33,andhra-pradesh,2021,2,visakhapatnam,2526830
+34,andhra-pradesh,2021,3,visakhapatnam,2707931
+35,andhra-pradesh,2021,4,visakhapatnam,2888774
+36,andhra-pradesh,2022,1,visakhapatnam,3061324
+37,andhra-pradesh,2022,2,visakhapatnam,3226029
+38,andhra-pradesh,2022,3,visakhapatnam,3397514
+39,andhra-pradesh,2022,4,visakhapatnam,3566854
+40,arunachal-pradesh,2018,1,papum pare,7649
+41,arunachal-pradesh,2018,2,papum pare,11418
+42,arunachal-pradesh,2018,3,papum pare,16009
+43,arunachal-pradesh,2018,4,papum pare,21342
+44,arunachal-pradesh,2019,1,papum pare,26298
+45,arunachal-pradesh,2019,2,papum pare,32800
+46,arunachal-pradesh,2019,3,papum pare,38845
+47,arunachal-pradesh,2019,4,papum pare,44746
+48,arunachal-pradesh,2020,1,papum pare,51342
+49,arunachal-pradesh,2020,2,papum pare,59968
+50,arunachal-pradesh,2020,3,papum pare,69419
+51,arunachal-pradesh,2020,4,papum pare,77936
+52,arunachal-pradesh,2021,1,papum pare,84715
+53,arunachal-pradesh,2021,2,papum pare,90871
+54,arunachal-pradesh,2021,3,papum pare,97854
+55,arunachal-pradesh,2021,4,papum pare,104806
+56,arunachal-pradesh,2022,1,papum pare,111271
+57,arunachal-pradesh,2022,2,papum pare,117568
+58,arunachal-pradesh,2022,3,papum pare,124095
+59,arunachal-pradesh,2022,4,papum pare,130306
+60,assam,2018,1,kamrup metropolitan,87336
+61,assam,2018,2,kamrup metropolitan,124720
+62,assam,2018,3,kamrup metropolitan,164101
+63,assam,2018,4,kamrup metropolitan,214212
+64,assam,2019,1,kamrup metropolitan,255112
+65,assam,2019,2,kamrup metropolitan,299219
+66,assam,2019,3,kamrup metropolitan,340588
+67,assam,2019,4,kamrup metropolitan,373761
+68,assam,2020,1,kamrup metropolitan,412013
+69,assam,2020,2,kamrup metropolitan,457023
+70,assam,2020,3,kamrup metropolitan,499403
+71,assam,2020,4,kamrup metropolitan,546458
+72,assam,2021,1,kamrup metropolitan,589688
+73,assam,2021,2,kamrup metropolitan,630676
+74,assam,2021,3,kamrup metropolitan,677223
+75,assam,2021,4,kamrup metropolitan,723960
+76,assam,2022,1,kamrup metropolitan,767859
+77,assam,2022,2,kamrup metropolitan,810057
+78,assam,2022,3,kamrup metropolitan,854019
+79,assam,2022,4,kamrup metropolitan,897245
+80,bihar,2018,1,patna,425009
+81,bihar,2018,2,patna,568657
+82,bihar,2018,3,patna,684421
+83,bihar,2018,4,patna,826399
+84,bihar,2019,1,patna,964432
+85,bihar,2019,2,patna,1076012
+86,bihar,2019,3,patna,1180262
+87,bihar,2019,4,patna,1289426
+88,bihar,2020,1,patna,1397342
+89,bihar,2020,2,patna,1506233
+90,bihar,2020,3,patna,1625305
+91,bihar,2020,4,patna,1752007
+92,bihar,2021,1,patna,1881439
+93,bihar,2021,2,patna,2010353
+94,bihar,2021,3,patna,2156402
+95,bihar,2021,4,patna,2303852
+96,bihar,2022,1,patna,2443356
+97,bihar,2022,2,patna,2577123
+98,bihar,2022,3,patna,2716533
+99,bihar,2022,4,patna,2854738
+100,chandigarh,2018,1,chandigarh,86268
+101,chandigarh,2018,2,chandigarh,115219
+102,chandigarh,2018,3,chandigarh,143893
+103,chandigarh,2018,4,chandigarh,177747
+104,chandigarh,2019,1,chandigarh,209175
+105,chandigarh,2019,2,chandigarh,240439
+106,chandigarh,2019,3,chandigarh,267337
+107,chandigarh,2019,4,chandigarh,289590
+108,chandigarh,2020,1,chandigarh,312887
+109,chandigarh,2020,2,chandigarh,336351
+110,chandigarh,2020,3,chandigarh,362588
+111,chandigarh,2020,4,chandigarh,391402
+112,chandigarh,2021,1,chandigarh,419998
+113,chandigarh,2021,2,chandigarh,448572
+114,chandigarh,2021,3,chandigarh,480463
+115,chandigarh,2021,4,chandigarh,512092
+116,chandigarh,2022,1,chandigarh,541549
+117,chandigarh,2022,2,chandigarh,569582
+118,chandigarh,2022,3,chandigarh,598698
+119,chandigarh,2022,4,chandigarh,627563
+120,chhattisgarh,2018,1,raipur,135308
+121,chhattisgarh,2018,2,raipur,185747
+122,chhattisgarh,2018,3,raipur,231146
+123,chhattisgarh,2018,4,raipur,289198
+124,chhattisgarh,2019,1,raipur,351495
+125,chhattisgarh,2019,2,raipur,405792
+126,chhattisgarh,2019,3,raipur,455785
+127,chhattisgarh,2019,4,raipur,506122
+128,chhattisgarh,2020,1,raipur,559412
+129,chhattisgarh,2020,2,raipur,616931
+130,chhattisgarh,2020,3,raipur,679027
+131,chhattisgarh,2020,4,raipur,743167
+132,chhattisgarh,2021,1,raipur,800224
+133,chhattisgarh,2021,2,raipur,855848
+134,chhattisgarh,2021,3,raipur,917950
+135,chhattisgarh,2021,4,raipur,979741
+136,chhattisgarh,2022,1,raipur,1038105
+137,chhattisgarh,2022,2,raipur,1093318
+138,chhattisgarh,2022,3,raipur,1150501
+139,chhattisgarh,2022,4,raipur,1205632
+140,dadra-&-nagar-haveli-&-daman-&-diu,2018,1,dadra and nagar haveli,32028
+141,dadra-&-nagar-haveli-&-daman-&-diu,2018,2,dadra and nagar haveli,43085
+142,dadra-&-nagar-haveli-&-daman-&-diu,2018,3,dadra and nagar haveli,55626
+143,dadra-&-nagar-haveli-&-daman-&-diu,2018,4,dadra and nagar haveli,69833
+144,dadra-&-nagar-haveli-&-daman-&-diu,2019,1,dadra and nagar haveli,83987
+145,dadra-&-nagar-haveli-&-daman-&-diu,2019,2,dadra and nagar haveli,94382
+146,dadra-&-nagar-haveli-&-daman-&-diu,2019,3,dadra and nagar haveli,105329
+147,dadra-&-nagar-haveli-&-daman-&-diu,2019,4,dadra and nagar haveli,117805
+148,dadra-&-nagar-haveli-&-daman-&-diu,2020,1,dadra and nagar haveli,130255
+149,dadra-&-nagar-haveli-&-daman-&-diu,2020,2,dadra and nagar haveli,146003
+150,dadra-&-nagar-haveli-&-daman-&-diu,2020,3,dadra and nagar haveli,160183
+151,dadra-&-nagar-haveli-&-daman-&-diu,2020,4,dadra and nagar haveli,177432
+152,dadra-&-nagar-haveli-&-daman-&-diu,2021,1,dadra and nagar haveli,192262
+153,dadra-&-nagar-haveli-&-daman-&-diu,2021,2,dadra and nagar haveli,206516
+154,dadra-&-nagar-haveli-&-daman-&-diu,2021,3,dadra and nagar haveli,222731
+155,dadra-&-nagar-haveli-&-daman-&-diu,2021,4,dadra and nagar haveli,239110
+156,dadra-&-nagar-haveli-&-daman-&-diu,2022,1,dadra and nagar haveli,254577
+157,dadra-&-nagar-haveli-&-daman-&-diu,2022,2,dadra and nagar haveli,269344
+158,dadra-&-nagar-haveli-&-daman-&-diu,2022,3,dadra and nagar haveli,284923
+159,dadra-&-nagar-haveli-&-daman-&-diu,2022,4,dadra and nagar haveli,300217
+160,delhi,2018,1,west,308558
+161,delhi,2018,2,west,406877
+162,delhi,2018,3,west,515854
+163,delhi,2018,4,west,686653
+164,delhi,2019,1,west,820526
+165,delhi,2019,2,west,919096
+166,delhi,2019,3,west,1008836
+167,delhi,2019,4,west,1081496
+168,delhi,2020,1,west,1160353
+169,delhi,2020,2,west,1243875
+170,delhi,2020,3,west,1343895
+171,delhi,2020,4,west,1451042
+172,delhi,2021,1,west,1559112
+173,delhi,2021,2,west,1666267
+174,delhi,2021,3,west,1785309
+175,delhi,2021,4,west,1905278
+176,delhi,2022,1,west,2017435
+177,delhi,2022,2,west,2124626
+178,delhi,2022,3,west,2235907
+179,delhi,2022,4,west,2348063
+180,goa,2018,1,north goa,57769
+181,goa,2018,2,north goa,76192
+182,goa,2018,3,north goa,95307
+183,goa,2018,4,north goa,121001
+184,goa,2019,1,north goa,147802
+185,goa,2019,2,north goa,173002
+186,goa,2019,3,north goa,197361
+187,goa,2019,4,north goa,220385
+188,goa,2020,1,north goa,244309
+189,goa,2020,2,north goa,267533
+190,goa,2020,3,north goa,294195
+191,goa,2020,4,north goa,326479
+192,goa,2021,1,north goa,352593
+193,goa,2021,2,north goa,376703
+194,goa,2021,3,north goa,403952
+195,goa,2021,4,north goa,430814
+196,goa,2022,1,north goa,456250
+197,goa,2022,2,north goa,480353
+198,goa,2022,3,north goa,504946
+199,goa,2022,4,north goa,527826
+200,gujarat,2018,1,ahmadabad,572811
+201,gujarat,2018,2,ahmadabad,751746
+202,gujarat,2018,3,ahmadabad,919252
+203,gujarat,2018,4,ahmadabad,1212636
+204,gujarat,2019,1,ahmadabad,1450100
+205,gujarat,2019,2,ahmadabad,1656341
+206,gujarat,2019,3,ahmadabad,1848860
+207,gujarat,2019,4,ahmadabad,2015947
+208,gujarat,2020,1,ahmadabad,2185983
+209,gujarat,2020,2,ahmadabad,2384154
+210,gujarat,2020,3,ahmadabad,2580178
+211,gujarat,2020,4,ahmadabad,2787991
+212,gujarat,2021,1,ahmadabad,2999575
+213,gujarat,2021,2,ahmadabad,3209841
+214,gujarat,2021,3,ahmadabad,3445024
+215,gujarat,2021,4,ahmadabad,3679243
+216,gujarat,2022,1,ahmadabad,3897869
+217,gujarat,2022,2,ahmadabad,4105172
+218,gujarat,2022,3,ahmadabad,4319512
+219,gujarat,2022,4,ahmadabad,4530853
+220,haryana,2018,1,gurugram,474081
+221,haryana,2018,2,gurugram,621718
+222,haryana,2018,3,gurugram,767369
+223,haryana,2018,4,gurugram,967781
+224,haryana,2019,1,gurugram,1159832
+225,haryana,2019,2,gurugram,1307319
+226,haryana,2019,3,gurugram,1447473
+227,haryana,2019,4,gurugram,1574240
+228,haryana,2020,1,gurugram,1700505
+229,haryana,2020,2,gurugram,1809777
+230,haryana,2020,3,gurugram,1949331
+231,haryana,2020,4,gurugram,2104240
+232,haryana,2021,1,gurugram,2262589
+233,haryana,2021,2,gurugram,2416391
+234,haryana,2021,3,gurugram,2589324
+235,haryana,2021,4,gurugram,2764490
+236,haryana,2022,1,gurugram,2929873
+237,haryana,2022,2,gurugram,3088176
+238,haryana,2022,3,gurugram,3251792
+239,haryana,2022,4,gurugram,3416098
+240,himachal-pradesh,2018,1,solan,50035
+241,himachal-pradesh,2018,2,solan,68950
+242,himachal-pradesh,2018,3,solan,88724
+243,himachal-pradesh,2018,4,solan,113278
+244,himachal-pradesh,2019,1,solan,139300
+245,himachal-pradesh,2019,2,solan,159989
+246,himachal-pradesh,2019,3,solan,178922
+247,himachal-pradesh,2019,4,solan,198962
+248,himachal-pradesh,2020,1,solan,220293
+249,himachal-pradesh,2020,2,solan,243732
+250,himachal-pradesh,2020,3,solan,265701
+251,himachal-pradesh,2020,4,solan,289889
+252,himachal-pradesh,2021,1,solan,312360
+253,himachal-pradesh,2021,2,solan,334716
+254,himachal-pradesh,2021,3,solan,360324
+255,himachal-pradesh,2021,4,solan,385901
+256,himachal-pradesh,2022,1,solan,410487
+257,himachal-pradesh,2022,2,solan,433753
+258,himachal-pradesh,2022,3,solan,457393
+259,himachal-pradesh,2022,4,solan,479537
+260,jammu-&-kashmir,2018,1,jammu,45294
+261,jammu-&-kashmir,2018,2,jammu,64681
+262,jammu-&-kashmir,2018,3,jammu,86877
+263,jammu-&-kashmir,2018,4,jammu,113005
+264,jammu-&-kashmir,2019,1,jammu,134408
+265,jammu-&-kashmir,2019,2,jammu,160241
+266,jammu-&-kashmir,2019,3,jammu,169849
+267,jammu-&-kashmir,2019,4,jammu,174858
+268,jammu-&-kashmir,2020,1,jammu,191031
+269,jammu-&-kashmir,2020,2,jammu,220805
+270,jammu-&-kashmir,2020,3,jammu,248814
+271,jammu-&-kashmir,2020,4,jammu,282463
+272,jammu-&-kashmir,2021,1,jammu,307670
+273,jammu-&-kashmir,2021,2,jammu,329625
+274,jammu-&-kashmir,2021,3,jammu,354280
+275,jammu-&-kashmir,2021,4,jammu,378618
+276,jammu-&-kashmir,2022,1,jammu,401675
+277,jammu-&-kashmir,2022,2,jammu,423398
+278,jammu-&-kashmir,2022,3,jammu,445345
+279,jammu-&-kashmir,2022,4,jammu,465635
+280,jharkhand,2018,1,ranchi,159444
+281,jharkhand,2018,2,ranchi,216019
+282,jharkhand,2018,3,ranchi,265341
+283,jharkhand,2018,4,ranchi,326599
+284,jharkhand,2019,1,ranchi,386608
+285,jharkhand,2019,2,ranchi,441616
+286,jharkhand,2019,3,ranchi,495155
+287,jharkhand,2019,4,ranchi,548293
+288,jharkhand,2020,1,ranchi,602664
+289,jharkhand,2020,2,ranchi,658759
+290,jharkhand,2020,3,ranchi,722352
+291,jharkhand,2020,4,ranchi,791146
+292,jharkhand,2021,1,ranchi,853943
+293,jharkhand,2021,2,ranchi,913972
+294,jharkhand,2021,3,ranchi,982147
+295,jharkhand,2021,4,ranchi,1050479
+296,jharkhand,2022,1,ranchi,1115386
+297,jharkhand,2022,2,ranchi,1176707
+298,jharkhand,2022,3,ranchi,1240013
+299,jharkhand,2022,4,ranchi,1301412
+300,karnataka,2018,1,bengaluru urban,1922368
+301,karnataka,2018,2,bengaluru urban,2553312
+302,karnataka,2018,3,bengaluru urban,3167597
+303,karnataka,2018,4,bengaluru urban,4126734
+304,karnataka,2019,1,bengaluru urban,5003207
+305,karnataka,2019,2,bengaluru urban,5694165
+306,karnataka,2019,3,bengaluru urban,6383771
+307,karnataka,2019,4,bengaluru urban,7016836
+308,karnataka,2020,1,bengaluru urban,7564577
+309,karnataka,2020,2,bengaluru urban,8028070
+310,karnataka,2020,3,bengaluru urban,8611452
+311,karnataka,2020,4,bengaluru urban,9286243
+312,karnataka,2021,1,bengaluru urban,9955387
+313,karnataka,2021,2,bengaluru urban,10604609
+314,karnataka,2021,3,bengaluru urban,11321012
+315,karnataka,2021,4,bengaluru urban,12038775
+316,karnataka,2022,1,bengaluru urban,12707664
+317,karnataka,2022,2,bengaluru urban,13342916
+318,karnataka,2022,3,bengaluru urban,13997602
+319,karnataka,2022,4,bengaluru urban,14654455
+320,kerala,2018,1,ernakulam,159188
+321,kerala,2018,2,ernakulam,211942
+322,kerala,2018,3,ernakulam,263779
+323,kerala,2018,4,ernakulam,341257
+324,kerala,2019,1,ernakulam,409812
+325,kerala,2019,2,ernakulam,479320
+326,kerala,2019,3,ernakulam,553200
+327,kerala,2019,4,ernakulam,633101
+328,kerala,2020,1,ernakulam,716945
+329,kerala,2020,2,ernakulam,798771
+330,kerala,2020,3,ernakulam,917356
+331,kerala,2020,4,ernakulam,1039584
+332,kerala,2021,1,ernakulam,1126122
+333,kerala,2021,2,ernakulam,1203623
+334,kerala,2021,3,ernakulam,1289089
+335,kerala,2021,4,ernakulam,1374081
+336,kerala,2022,1,ernakulam,1454447
+337,kerala,2022,2,ernakulam,1531113
+338,kerala,2022,3,ernakulam,1611052
+339,kerala,2022,4,ernakulam,1687311
+340,ladakh,2018,1,leh ladakh,7255
+341,ladakh,2018,2,leh ladakh,10733
+342,ladakh,2018,3,leh ladakh,14617
+343,ladakh,2018,4,leh ladakh,19447
+344,ladakh,2019,1,leh ladakh,23891
+345,ladakh,2019,2,leh ladakh,28390
+346,ladakh,2019,3,leh ladakh,31455
+347,ladakh,2019,4,leh ladakh,34770
+348,ladakh,2020,1,leh ladakh,38079
+349,ladakh,2020,2,leh ladakh,41782
+350,ladakh,2020,3,leh ladakh,45587
+351,ladakh,2020,4,leh ladakh,50252
+352,ladakh,2021,1,leh ladakh,54095
+353,ladakh,2021,2,leh ladakh,57971
+354,ladakh,2021,3,leh ladakh,62633
+355,ladakh,2021,4,leh ladakh,67049
+356,ladakh,2022,1,leh ladakh,71173
+357,ladakh,2022,2,leh ladakh,75042
+358,ladakh,2022,3,leh ladakh,78769
+359,ladakh,2022,4,leh ladakh,82011
+360,lakshadweep,2018,1,lakshadweep,501
+361,lakshadweep,2018,2,lakshadweep,686
+362,lakshadweep,2018,3,lakshadweep,918
+363,lakshadweep,2018,4,lakshadweep,1156
+364,lakshadweep,2019,1,lakshadweep,1416
+365,lakshadweep,2019,2,lakshadweep,1747
+366,lakshadweep,2019,3,lakshadweep,2117
+367,lakshadweep,2019,4,lakshadweep,2427
+368,lakshadweep,2020,1,lakshadweep,2772
+369,lakshadweep,2020,2,lakshadweep,3187
+370,lakshadweep,2020,3,lakshadweep,3644
+371,lakshadweep,2020,4,lakshadweep,4179
+372,lakshadweep,2021,1,lakshadweep,4577
+373,lakshadweep,2021,2,lakshadweep,4896
+374,lakshadweep,2021,3,lakshadweep,5287
+375,lakshadweep,2021,4,lakshadweep,5638
+376,lakshadweep,2022,1,lakshadweep,5990
+377,lakshadweep,2022,2,lakshadweep,6327
+378,lakshadweep,2022,3,lakshadweep,6645
+379,lakshadweep,2022,4,lakshadweep,6961
+380,madhya-pradesh,2018,1,indore,366977
+381,madhya-pradesh,2018,2,indore,479904
+382,madhya-pradesh,2018,3,indore,585621
+383,madhya-pradesh,2018,4,indore,712479
+384,madhya-pradesh,2019,1,indore,844465
+385,madhya-pradesh,2019,2,indore,955207
+386,madhya-pradesh,2019,3,indore,1071598
+387,madhya-pradesh,2019,4,indore,1181500
+388,madhya-pradesh,2020,1,indore,1287857
+389,madhya-pradesh,2020,2,indore,1410157
+390,madhya-pradesh,2020,3,indore,1524036
+391,madhya-pradesh,2020,4,indore,1645564
+392,madhya-pradesh,2021,1,indore,1769869
+393,madhya-pradesh,2021,2,indore,1892259
+394,madhya-pradesh,2021,3,indore,2028266
+395,madhya-pradesh,2021,4,indore,2164101
+396,madhya-pradesh,2022,1,indore,2291709
+397,madhya-pradesh,2022,2,indore,2412576
+398,madhya-pradesh,2022,3,indore,2537328
+399,madhya-pradesh,2022,4,indore,2660518
+400,maharashtra,2018,1,pune,1211643
+401,maharashtra,2018,2,pune,1592293
+402,maharashtra,2018,3,pune,1974138
+403,maharashtra,2018,4,pune,2498852
+404,maharashtra,2019,1,pune,3038402
+405,maharashtra,2019,2,pune,3514081
+406,maharashtra,2019,3,pune,4004991
+407,maharashtra,2019,4,pune,4416899
+408,maharashtra,2020,1,pune,4802397
+409,maharashtra,2020,2,pune,5144688
+410,maharashtra,2020,3,pune,5546002
+411,maharashtra,2020,4,pune,6033615
+412,maharashtra,2021,1,pune,6481971
+413,maharashtra,2021,2,pune,6915820
+414,maharashtra,2021,3,pune,7398336
+415,maharashtra,2021,4,pune,7880431
+416,maharashtra,2022,1,pune,8331582
+417,maharashtra,2022,2,pune,8757249
+418,maharashtra,2022,3,pune,9194074
+419,maharashtra,2022,4,pune,9622338
+420,manipur,2018,1,imphal west,11304
+421,manipur,2018,2,imphal west,16541
+422,manipur,2018,3,imphal west,21696
+423,manipur,2018,4,imphal west,28383
+424,manipur,2019,1,imphal west,33668
+425,manipur,2019,2,imphal west,39303
+426,manipur,2019,3,imphal west,45268
+427,manipur,2019,4,imphal west,51063
+428,manipur,2020,1,imphal west,57485
+429,manipur,2020,2,imphal west,67897
+430,manipur,2020,3,imphal west,79723
+431,manipur,2020,4,imphal west,88777
+432,manipur,2021,1,imphal west,96101
+433,manipur,2021,2,imphal west,102833
+434,manipur,2021,3,imphal west,110506
+435,manipur,2021,4,imphal west,118056
+436,manipur,2022,1,imphal west,125131
+437,manipur,2022,2,imphal west,131901
+438,manipur,2022,3,imphal west,138892
+439,manipur,2022,4,imphal west,145422
+440,meghalaya,2018,1,east khasi hills,9310
+441,meghalaya,2018,2,east khasi hills,12907
+442,meghalaya,2018,3,east khasi hills,17543
+443,meghalaya,2018,4,east khasi hills,22845
+444,meghalaya,2019,1,east khasi hills,27937
+445,meghalaya,2019,2,east khasi hills,33377
+446,meghalaya,2019,3,east khasi hills,38761
+447,meghalaya,2019,4,east khasi hills,43484
+448,meghalaya,2020,1,east khasi hills,49251
+449,meghalaya,2020,2,east khasi hills,57322
+450,meghalaya,2020,3,east khasi hills,65268
+451,meghalaya,2020,4,east khasi hills,72639
+452,meghalaya,2021,1,east khasi hills,78429
+453,meghalaya,2021,2,east khasi hills,84124
+454,meghalaya,2021,3,east khasi hills,90505
+455,meghalaya,2021,4,east khasi hills,96942
+456,meghalaya,2022,1,east khasi hills,102838
+457,meghalaya,2022,2,east khasi hills,108330
+458,meghalaya,2022,3,east khasi hills,113816
+459,meghalaya,2022,4,east khasi hills,118978
+460,mizoram,2018,1,aizawl,4550
+461,mizoram,2018,2,aizawl,6211
+462,mizoram,2018,3,aizawl,8460
+463,mizoram,2018,4,aizawl,11131
+464,mizoram,2019,1,aizawl,13422
+465,mizoram,2019,2,aizawl,15934
+466,mizoram,2019,3,aizawl,18992
+467,mizoram,2019,4,aizawl,21865
+468,mizoram,2020,1,aizawl,25253
+469,mizoram,2020,2,aizawl,29637
+470,mizoram,2020,3,aizawl,36225
+471,mizoram,2020,4,aizawl,41500
+472,mizoram,2021,1,aizawl,45103
+473,mizoram,2021,2,aizawl,48525
+474,mizoram,2021,3,aizawl,52313
+475,mizoram,2021,4,aizawl,56005
+476,mizoram,2022,1,aizawl,59433
+477,mizoram,2022,2,aizawl,62605
+478,mizoram,2022,3,aizawl,65940
+479,mizoram,2022,4,aizawl,68925
+480,nagaland,2018,1,dimapur,8249
+481,nagaland,2018,2,dimapur,12093
+482,nagaland,2018,3,dimapur,17039
+483,nagaland,2018,4,dimapur,22603
+484,nagaland,2019,1,dimapur,28091
+485,nagaland,2019,2,dimapur,34567
+486,nagaland,2019,3,dimapur,41036
+487,nagaland,2019,4,dimapur,47000
+488,nagaland,2020,1,dimapur,53696
+489,nagaland,2020,2,dimapur,63398
+490,nagaland,2020,3,dimapur,79061
+491,nagaland,2020,4,dimapur,87807
+492,nagaland,2021,1,dimapur,94968
+493,nagaland,2021,2,dimapur,101835
+494,nagaland,2021,3,dimapur,109644
+495,nagaland,2021,4,dimapur,117388
+496,nagaland,2022,1,dimapur,124644
+497,nagaland,2022,2,dimapur,131738
+498,nagaland,2022,3,dimapur,139011
+499,nagaland,2022,4,dimapur,145923
+500,odisha,2018,1,khordha,308390
+501,odisha,2018,2,khordha,406689
+502,odisha,2018,3,khordha,499472
+503,odisha,2018,4,khordha,626645
+504,odisha,2019,1,khordha,745457
+505,odisha,2019,2,khordha,826007
+506,odisha,2019,3,khordha,916565
+507,odisha,2019,4,khordha,1014134
+508,odisha,2020,1,khordha,1083466
+509,odisha,2020,2,khordha,1152010
+510,odisha,2020,3,khordha,1232760
+511,odisha,2020,4,khordha,1323794
+512,odisha,2021,1,khordha,1415897
+513,odisha,2021,2,khordha,1511068
+514,odisha,2021,3,khordha,1618171
+515,odisha,2021,4,khordha,1725313
+516,odisha,2022,1,khordha,1827307
+517,odisha,2022,2,khordha,1924289
+518,odisha,2022,3,khordha,2025108
+519,odisha,2022,4,khordha,2124474
+520,puducherry,2018,1,puducherry,42117
+521,puducherry,2018,2,puducherry,55513
+522,puducherry,2018,3,puducherry,68634
+523,puducherry,2018,4,puducherry,92629
+524,puducherry,2019,1,puducherry,112798
+525,puducherry,2019,2,puducherry,132703
+526,puducherry,2019,3,puducherry,150642
+527,puducherry,2019,4,puducherry,173175
+528,puducherry,2020,1,puducherry,195398
+529,puducherry,2020,2,puducherry,215429
+530,puducherry,2020,3,puducherry,239707
+531,puducherry,2020,4,puducherry,267946
+532,puducherry,2021,1,puducherry,290107
+533,puducherry,2021,2,puducherry,309892
+534,puducherry,2021,3,puducherry,332193
+535,puducherry,2021,4,puducherry,354425
+536,puducherry,2022,1,puducherry,375238
+537,puducherry,2022,2,puducherry,394977
+538,puducherry,2022,3,puducherry,415847
+539,puducherry,2022,4,puducherry,436067
+540,punjab,2018,1,ludhiana,168625
+541,punjab,2018,2,ludhiana,230404
+542,punjab,2018,3,ludhiana,296414
+543,punjab,2018,4,ludhiana,378237
+544,punjab,2019,1,ludhiana,454370
+545,punjab,2019,2,ludhiana,528745
+546,punjab,2019,3,ludhiana,601479
+547,punjab,2019,4,ludhiana,671579
+548,punjab,2020,1,ludhiana,756590
+549,punjab,2020,2,ludhiana,853140
+550,punjab,2020,3,ludhiana,944936
+551,punjab,2020,4,ludhiana,1037696
+552,punjab,2021,1,ludhiana,1121835
+553,punjab,2021,2,ludhiana,1204126
+554,punjab,2021,3,ludhiana,1296796
+555,punjab,2021,4,ludhiana,1388951
+556,punjab,2022,1,ludhiana,1476288
+557,punjab,2022,2,ludhiana,1558996
+558,punjab,2022,3,ludhiana,1644780
+559,punjab,2022,4,ludhiana,1728119
+560,rajasthan,2018,1,jaipur,900773
+561,rajasthan,2018,2,jaipur,1182983
+562,rajasthan,2018,3,jaipur,1438305
+563,rajasthan,2018,4,jaipur,1733893
+564,rajasthan,2019,1,jaipur,2060175
+565,rajasthan,2019,2,jaipur,2290462
+566,rajasthan,2019,3,jaipur,2520933
+567,rajasthan,2019,4,jaipur,2746860
+568,rajasthan,2020,1,jaipur,2966508
+569,rajasthan,2020,2,jaipur,3182014
+570,rajasthan,2020,3,jaipur,3433167
+571,rajasthan,2020,4,jaipur,3679874
+572,rajasthan,2021,1,jaipur,3951866
+573,rajasthan,2021,2,jaipur,4226231
+574,rajasthan,2021,3,jaipur,4534297
+575,rajasthan,2021,4,jaipur,4841883
+576,rajasthan,2022,1,jaipur,5133527
+577,rajasthan,2022,2,jaipur,5409763
+578,rajasthan,2022,3,jaipur,5696726
+579,rajasthan,2022,4,jaipur,5975863
+580,sikkim,2018,1,east,12749
+581,sikkim,2018,2,east,17767
+582,sikkim,2018,3,east,23460
+583,sikkim,2018,4,east,29948
+584,sikkim,2019,1,east,36124
+585,sikkim,2019,2,east,43048
+586,sikkim,2019,3,east,49404
+587,sikkim,2019,4,east,55340
+588,sikkim,2020,1,east,61820
+589,sikkim,2020,2,east,69829
+590,sikkim,2020,3,east,78018
+591,sikkim,2020,4,east,85770
+592,sikkim,2021,1,east,92502
+593,sikkim,2021,2,east,99077
+594,sikkim,2021,3,east,106352
+595,sikkim,2021,4,east,113537
+596,sikkim,2022,1,east,120360
+597,sikkim,2022,2,east,126666
+598,sikkim,2022,3,east,133152
+599,sikkim,2022,4,east,139175
+600,tamil-nadu,2018,1,chennai,292004
+601,tamil-nadu,2018,2,chennai,401349
+602,tamil-nadu,2018,3,chennai,511138
+603,tamil-nadu,2018,4,chennai,689276
+604,tamil-nadu,2019,1,chennai,830586
+605,tamil-nadu,2019,2,chennai,969955
+606,tamil-nadu,2019,3,chennai,1090190
+607,tamil-nadu,2019,4,chennai,1216610
+608,tamil-nadu,2020,1,chennai,1340762
+609,tamil-nadu,2020,2,chennai,1436722
+610,tamil-nadu,2020,3,chennai,1566152
+611,tamil-nadu,2020,4,chennai,1731527
+612,tamil-nadu,2021,1,chennai,1865001
+613,tamil-nadu,2021,2,chennai,1988355
+614,tamil-nadu,2021,3,chennai,2124347
+615,tamil-nadu,2021,4,chennai,2261346
+616,tamil-nadu,2022,1,chennai,2388315
+617,tamil-nadu,2022,2,chennai,2509588
+618,tamil-nadu,2022,3,chennai,2635738
+619,tamil-nadu,2022,4,chennai,2763151
+620,telangana,2018,1,hyderabad,655175
+621,telangana,2018,2,hyderabad,842483
+622,telangana,2018,3,hyderabad,1024241
+623,telangana,2018,4,hyderabad,1336872
+624,telangana,2019,1,hyderabad,1638436
+625,telangana,2019,2,hyderabad,1856926
+626,telangana,2019,3,hyderabad,2071673
+627,telangana,2019,4,hyderabad,2283903
+628,telangana,2020,1,hyderabad,2483843
+629,telangana,2020,2,hyderabad,2653534
+630,telangana,2020,3,hyderabad,2875965
+631,telangana,2020,4,hyderabad,3142385
+632,telangana,2021,1,hyderabad,3379663
+633,telangana,2021,2,hyderabad,3598337
+634,telangana,2021,3,hyderabad,3839513
+635,telangana,2021,4,hyderabad,4081185
+636,telangana,2022,1,hyderabad,4306136
+637,telangana,2022,2,hyderabad,4519625
+638,telangana,2022,3,hyderabad,4739891
+639,telangana,2022,4,hyderabad,4962214
+640,tripura,2018,1,west tripura,27242
+641,tripura,2018,2,west tripura,40345
+642,tripura,2018,3,west tripura,53531
+643,tripura,2018,4,west tripura,67549
+644,tripura,2019,1,west tripura,79732
+645,tripura,2019,2,west tripura,93241
+646,tripura,2019,3,west tripura,104949
+647,tripura,2019,4,west tripura,114108
+648,tripura,2020,1,west tripura,124538
+649,tripura,2020,2,west tripura,137156
+650,tripura,2020,3,west tripura,151432
+651,tripura,2020,4,west tripura,163752
+652,tripura,2021,1,west tripura,175841
+653,tripura,2021,2,west tripura,188123
+654,tripura,2021,3,west tripura,202122
+655,tripura,2021,4,west tripura,215860
+656,tripura,2022,1,west tripura,229161
+657,tripura,2022,2,west tripura,242041
+658,tripura,2022,3,west tripura,255161
+659,tripura,2022,4,west tripura,267713
+660,uttar-pradesh,2018,1,gautam buddha nagar,448768
+661,uttar-pradesh,2018,2,gautam buddha nagar,586350
+662,uttar-pradesh,2018,3,gautam buddha nagar,727480
+663,uttar-pradesh,2018,4,gautam buddha nagar,951342
+664,uttar-pradesh,2019,1,gautam buddha nagar,1143614
+665,uttar-pradesh,2019,2,gautam buddha nagar,1282816
+666,uttar-pradesh,2019,3,gautam buddha nagar,1415905
+667,uttar-pradesh,2019,4,gautam buddha nagar,1537791
+668,uttar-pradesh,2020,1,gautam buddha nagar,1656331
+669,uttar-pradesh,2020,2,gautam buddha nagar,1756163
+670,uttar-pradesh,2020,3,gautam buddha nagar,1885370
+671,uttar-pradesh,2020,4,gautam buddha nagar,2030178
+672,uttar-pradesh,2021,1,gautam buddha nagar,2181874
+673,uttar-pradesh,2021,2,gautam buddha nagar,2329954
+674,uttar-pradesh,2021,3,gautam buddha nagar,2496114
+675,uttar-pradesh,2021,4,gautam buddha nagar,2664034
+676,uttar-pradesh,2022,1,gautam buddha nagar,2822463
+677,uttar-pradesh,2022,2,gautam buddha nagar,2973360
+678,uttar-pradesh,2022,3,gautam buddha nagar,3130224
+679,uttar-pradesh,2022,4,gautam buddha nagar,3286371
+680,uttarakhand,2018,1,dehradun,147998
+681,uttarakhand,2018,2,dehradun,198296
+682,uttarakhand,2018,3,dehradun,246477
+683,uttarakhand,2018,4,dehradun,306969
+684,uttarakhand,2019,1,dehradun,369578
+685,uttarakhand,2019,2,dehradun,428353
+686,uttarakhand,2019,3,dehradun,486157
+687,uttarakhand,2019,4,dehradun,537026
+688,uttarakhand,2020,1,dehradun,593420
+689,uttarakhand,2020,2,dehradun,649026
+690,uttarakhand,2020,3,dehradun,711303
+691,uttarakhand,2020,4,dehradun,779564
+692,uttarakhand,2021,1,dehradun,840361
+693,uttarakhand,2021,2,dehradun,898504
+694,uttarakhand,2021,3,dehradun,963594
+695,uttarakhand,2021,4,dehradun,1028085
+696,uttarakhand,2022,1,dehradun,1088710
+697,uttarakhand,2022,2,dehradun,1146386
+698,uttarakhand,2022,3,dehradun,1205785
+699,uttarakhand,2022,4,dehradun,1262999
+700,west-bengal,2018,1,north twenty four parganas,396980
+701,west-bengal,2018,2,north twenty four parganas,572438
+702,west-bengal,2018,3,north twenty four parganas,722572
+703,west-bengal,2018,4,north twenty four parganas,946634
+704,west-bengal,2019,1,north twenty four parganas,1130983
+705,west-bengal,2019,2,north twenty four parganas,1312362
+706,west-bengal,2019,3,north twenty four parganas,1478650
+707,west-bengal,2019,4,north twenty four parganas,1638605
+708,west-bengal,2020,1,north twenty four parganas,1789973
+709,west-bengal,2020,2,north twenty four parganas,1966125
+710,west-bengal,2020,3,north twenty four parganas,2143943
+711,west-bengal,2020,4,north twenty four parganas,2321888
+712,west-bengal,2021,1,north twenty four parganas,2491076
+713,west-bengal,2021,2,north twenty four parganas,2660664
+714,west-bengal,2021,3,north twenty four parganas,2852030
+715,west-bengal,2021,4,north twenty four parganas,3043008
+716,west-bengal,2022,1,north twenty four parganas,3224459
+717,west-bengal,2022,2,north twenty four parganas,3397791
+718,west-bengal,2022,3,north twenty four parganas,3578500
+719,west-bengal,2022,4,north twenty four parganas,3755017
