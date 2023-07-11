@@ -35,6 +35,7 @@ st.write('The trend line has shown exponential growth in transaction amount and 
          'After covid the growth is exponential means many users like phone and not shifting to other'
          'platforms')
 
+st.markdown("""<hr style="height:10px;border:none;color:#333;background-color:#333;" /> """, unsafe_allow_html=True)
 
 st.subheader("Analyse which Transaction type is performing over the years")
 query = text(fr"SELECT * FROM Agg_tns_India")
@@ -47,3 +48,20 @@ st.plotly_chart(fig)
 st.write("It is clear that Peer to Peer Payments, Merchant Payments and Recharge and Bill Payments is"
          "performing way better than the other instruments, working on the other instruments will boost "
          "the growth even further and good maintenance of the good performing ones")
+
+st.markdown("""<hr style="height:10px;border:none;color:#333;background-color:#333;" /> """, unsafe_allow_html=True)
+
+st.subheader("Users Trend Analysis")
+query = text(fr"SELECT * FROM AUI_RU_AO")
+users_df = pd.read_sql(query, con=engine.connect())
+# users_df
+plt.figure(figsize=(10,6))
+registered_Users = px.area(data_frame=users_df, x='Year', y='Registered_Users', color='Quater')
+st.plotly_chart(registered_Users)
+plt.figure(figsize=(10,6))
+user = px.area(data_frame=users_df, x='Year', y='App_Opens', color='Quater')
+st.plotly_chart(user)
+
+st.markdown("""<hr style="height:10px;border:none;color:#333;background-color:#333;" /> """, unsafe_allow_html=True)
+
+st.selectbox

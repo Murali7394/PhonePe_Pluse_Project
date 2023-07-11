@@ -10,9 +10,10 @@ import sqlalchemy
 from sqlalchemy import text
 import json
 
-engine = sqlalchemy.create_engine('sqlite:///D:\Phone pluse project\phonepluse.db')
+engine = sqlalchemy.create_engine(r'sqlite:///D:\Phone pluse project\phonepluse.db')
 # filling up to remove the
 # error
+
 
 def formatINR(number):
     s, *d = str(number).partition(".")
