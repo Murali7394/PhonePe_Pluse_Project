@@ -112,51 +112,83 @@ fig = px.bar(data_frame=vz_trans_df, x='Transaction_type', y='Transaction_count'
              title='Transactions in India')
 st.plotly_chart(fig)
 
+st.subheader("Observations on Transaction in India")
+st.write("On observing all the Transaction Type Over the years. Top three payment instruments in India"
+         " are Peer-Peer Payments, Recharge and Bill Payments, Merchant Payments")
+
+st.write("Merchant Payments is very low when at the intial stages of digitisation. This shows at the starting"
+         " the merchants we reluctant for the digital mode of transactions")
+st.write("But afterwards slowly merchants started to incorporate the digital mode of transaction this has reflected"
+         " in the data that the Merchant Payments have moved from the 3rd lowest to the top instrument in the the later"
+         " years and Merchant payments will stay at the top as India is Developing country with many MSME business ")
+st.write('Financial services and Other payments mode very low in count and amount.This shows that these has '
+         'less scope in the people of india or proper streamlining of the sector should be done')
+
+
+query = text(f"""SELECT * FROM Agg_tns_state WHERE State = '{state}' AND Year = {year} AND Quater = {quater};
+""")
 state_tns_df = pd.read_sql(query, con=engine.connect())
-# state_tns_df['Quater'] = state_tns_df['Quater'].astype('str')
+# st.table(state_tns_df)
 fig = px.bar(data_frame=state_tns_df, x='Transaction_type', y='Transaction_amount', color='Transaction_type',
              facet_col='Year', title=f'Performance of Transaction Instruments in {state} in the year {year} '
                                      f'quater {quater}')
 st.plotly_chart(fig)
 
-
-
-
-
-
-
+st.subheader("Observations on Transaction in State")
+st.write('Though Merchant Payments have topped in India as a whole. In many states still merchant payments'
+         ' is a low performing. Merchants in the towns and villages have not fully accepted the digital mode'
+         ' of payment ')
+st.write('The State that are top contributor to the GDP of India has more transaction amount and count')
 
 
 
 # top charts visualization:
 
 #
-# selected = option_menu(menu_title="Top 10",
-#                        options=['States', 'Districts', 'Pincodes'],
-#                        orientation='horizontal',
-#                        default_index=0
-#                        )
-#
-# if selected == 'States':
-#     st.subheader("Top 10 States")
-#     query = text(f"""SELECT State, Trans_amount_cf FROM Top_tran_india_state
-#                 WHERE Year={year} AND Quater={quater};""")
-#     df = pd.read_sql(query, con=engine.connect())
-#     df['State'] = df['State'].apply(lambda x: x.title())
-#     st.table(df)
-# if selected == 'Districts':
-#     st.subheader("Top 10 Districts")
-#     query = text(f"""SELECT District_name, Trans_amount_cf FROM Top_tran_india_distric
-#                 WHERE Year={year} AND Quater={quater};""")
-#     df = pd.read_sql(query, con=engine.connect())
-#     df['District_name'] = df['District_name'].apply(lambda x: x.title())
-#     st.table(df)
-# if selected == 'Pincodes':
-#     st.subheader("Top 10 Pincodes")
-#     query = text(f"""SELECT Pincode, Trans_amount_cf FROM Top_tran_india_pincode
-#                     WHERE Year={year} AND Quater={quater};""")
-#     df = pd.read_sql(query, con=engine.connect())
-#     st.table(df)
+selected = option_menu(menu_title="Top 10",
+                       options=['States', 'Districts', 'Pincodes'],
+                       orientation='horizontal',
+                       default_index=0
+                       )
+
+if selected == 'States':
+    st.subheader("Top 10 States")
+    query = text(f"""SELECT * FROM Top_tran_india_state
+                WHERE Year={year} AND Quater={quater} ORDER BY Transaction_amount DESC;""")
+    df = pd.read_sql(query, con=engine.connect())
+    df['State'] = df['State'].apply(lambda x: x.title())
+    fig = px.bar(data_frame=df, x='State', y='Transaction_amount', color='State')
+    st.plotly_chart(fig)
+    # fig = plt.figure(figsize=(10,6))
+    # sns.barplot(df, x='State', y='Transaction_amount', hue='State')
+    # st.pyplot(fig)
+    # st.table(df)
+if selected == 'Districts':
+    st.subheader("Top 10 Districts")
+    query = text(f"""SELECT * FROM Top_tran_india_distric
+                WHERE Year={year} AND Quater={quater} ORDER BY Transaction_amount DESC;""")
+    df = pd.read_sql(query, con=engine.connect())
+    df['District_name'] = df['District_name'].apply(lambda x: x.title())
+    fig = px.bar(data_frame=df, x='District_name', y='Transaction_amount', color='District_name')
+    st.plotly_chart(fig)
+    # st.table(df)
+if selected == 'Pincodes':
+    st.subheader("Top 10 Pincodes")
+    query = text(f"""SELECT * FROM Top_tran_india_pincode
+                    WHERE Year={year} AND Quater={quater} ORDER BY Transaction_amount DESC;""")
+    df = pd.read_sql(query, con=engine.connect())
+    df['Pincode'] = df['Pincode'].astype('str')
+    fig = px.bar(data_frame=df, x='Pincode', y='Transaction_amount', color='Pincode')
+    st.plotly_chart(fig)
+    # st.table(df)
+
+st.subheader("Observations")
+st.write('Electronic city of Inida Bengaluru tops the district table shows that many people in bengaluru'
+         ' are exposed to new technology. They are aware of the tech make use of it. ')
+st.write('Awareness about the digital mode of payment among the people who are in the rural side is very low'
+         ' that is why other districts are behind Bengaluru ')
+st.write("Fear of Fradulant links and hacking also impacts the thought of people who are thinking to change to "
+         " digital")
 
 
 

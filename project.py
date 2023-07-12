@@ -46,7 +46,7 @@ def final_format(amount):
     return final
 
 
-col1, col2 = st.columns([3,1])
+col1, col2 = st.columns(2,gap='large')
 
 with st.sidebar:
     st.write("This is a phone pe pluse data project")
